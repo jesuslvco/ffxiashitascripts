@@ -1,0 +1,2 @@
+/echo executing script [NEXUS CAPE] : %0%
+/ms sendto %0% /include acc/equip/nexusCape
