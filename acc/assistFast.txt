@@ -1,0 +1,5 @@
+/ms sendto %0% /assist %1%
+/wait 1
+/ms sendto %0% /follow <t>
+/dwait 1
+/ms sendto %0% /attack

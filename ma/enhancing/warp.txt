@@ -1,0 +1,3 @@
+/ms sendto %0% /item "warp scroll" <me>
+/ms sendto %0% /item "warp ring" <me>
+/ms sendto %0% /ma warp <me>

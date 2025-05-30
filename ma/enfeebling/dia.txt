@@ -1,0 +1,2 @@
+/ms sendto %0% /ma "dia II" <bt>
+/ms sendto %0% /ma dia <bt>

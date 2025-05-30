@@ -1,0 +1,4 @@
+/item "warp ring" <me>
+/ma "warp" <me>
+/ms sendto %0% /item "warp ring" <me>
+/ms sendto %0% /ma "warp" <me>

@@ -1,0 +1,2 @@
+!sanction
+/ms sendto %0% !sanction

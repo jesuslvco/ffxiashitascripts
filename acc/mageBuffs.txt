@@ -1,0 +1,12 @@
+/ms sendto %0% /debuff stoneskin
+/ms sendto %0% /ma aquaveil <me>
+/wait 6
+/ms sendto %0% /ma stoneskin <me>
+/wait 10
+/ms sendto %0% /ma blink <me>
+/wait 10
+/ms sendto %0% /ma "reraise III" <me>
+/ms sendto %0% /ma "reraise ii" <me>
+/ms sendto %0% /ma reraise <me>
+/wait 8
+/ms sendto %0% /ma refresh <me>

@@ -1,0 +1,3 @@
+/ms sendto %0% /item "Wizzard cookie" <me>
+/ms sendto %0% /item "Ginger cookie" <me>
+/ms sendto %0% /heal

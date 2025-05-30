@@ -1,0 +1,4 @@
+/ms sendto %0% /debuff sneak
+/ms sendto %0% /ma sneak %0%
+/wait 5
+/ms sendto %0% /ma invisible %0%

@@ -1,0 +1,10 @@
+/ms sendto %0% /ma dia <bt>
+/wait 7
+/ms sendto %0% /ma dia <bt>
+/wait 7
+/ms sendto %0% /ma dia <bt>
+/wait 7
+/ms sendto %0% /ma dia <bt>
+/wait 7
+/ms sendto %0% /ma dia <bt>
+

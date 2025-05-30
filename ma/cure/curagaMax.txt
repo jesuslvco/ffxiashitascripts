@@ -1,0 +1,2 @@
+/echo "Max Curaga " %0% "=>" %1%
+/ms sendto %0% /upcast "curaga" %1%

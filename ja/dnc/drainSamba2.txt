@@ -1,0 +1,1 @@
+/ms sendto %0% /ja "drain samba ii" <me>

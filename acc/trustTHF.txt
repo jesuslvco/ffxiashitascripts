@@ -1,0 +1,12 @@
+/ms sendto %0% /retr all
+/wait 1
+/ms sendto %0% /ma halver <me>
+/wait 6
+/ms sendto %0% /ma Tenzen <me>
+/wait 6
+/ms sendto %0% /ma Excenmille <me>
+/wait 6
+/ms sendto %0% /ma "Nanaa mihgo" <me>
+/wait 6
+/ms sendto %0% /ma Apururu <me>
+

@@ -1,0 +1,6 @@
+!signet
+/ms sendto %0% !signet
+/ms sendto %0% /ma "protectra V" <me>
+/wait 8
+/ms sendto %0% /ma "shellra V" <me>
+

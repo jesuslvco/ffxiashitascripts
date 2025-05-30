@@ -1,0 +1,2 @@
+/dismount
+/ms sendto %0% /dismount

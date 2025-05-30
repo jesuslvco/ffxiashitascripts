@@ -1,0 +1,2 @@
+!signet
+/ms sendto %0% !signet

@@ -1,0 +1,8 @@
+/ms sendto %0% /ma Holy <bt>
+/wait 3
+/ms sendto %0% /ma "Holy II" <bt>
+/wait 3
+/ms sendto %0% /ma Banish <bt>
+/wait 5
+/ms sendto %0% /ma "Banish II" <bt>
+

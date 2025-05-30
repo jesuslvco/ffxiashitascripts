@@ -1,0 +1,3 @@
+/ms sendto %0% /ma "regen iii" %1%
+/ms sendto %0% /ma "regen ii" %1%
+/ms sendto %0% /ma regen %1%

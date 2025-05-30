@@ -1,0 +1,4 @@
+/ms sendto %0% /ma "fire IV" <bt>
+/ms sendto %0% /ma "fire iii" <bt>
+/ms sendto %0% /ma "fire ii" <bt>
+/ms sendto %0% /ma "fire" <bt>

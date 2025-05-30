@@ -1,0 +1,5 @@
+/ms sendto %0% /ma "Freeze II" <bt>
+/ms sendto %0% /ma "blizzard IV" <bt>
+/ms sendto %0% /ma "blizzard III" <bt>
+/ms sendto %0% /ma "blizzard II" <bt>
+/ms sendto %0% /ma "blizzard" <bt>

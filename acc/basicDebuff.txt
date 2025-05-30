@@ -1,0 +1,6 @@
+/ms sendto %0% /ma "dia II" <bt>
+/ms sendto %0% /ma dia <bt>
+/wait 6
+/ms sendto %0% /ma paralyze <bt>
+/wait 6
+/ms sendto %0% /ma slow <bt>

@@ -1,0 +1,5 @@
+/ms sendto %0% /ma "Burst II" <bt>
+/ms sendto %0% /ma "thunder IV" <bt>
+/ms sendto %0% /ma "thunder III" <bt>
+/ms sendto %0% /ma "thunder II" <bt>
+/ms sendto %0% /ma "thunder" <bt>

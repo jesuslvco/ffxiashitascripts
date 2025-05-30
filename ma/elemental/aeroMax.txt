@@ -1,0 +1,4 @@
+/ms sendto %0% /ma "aero IV" <bt>
+/ms sendto %0% /ma "aero III" <bt>
+/ms sendto %0% /ma "aero II" <bt>
+/ms sendto %0% /ma "aero" <bt>

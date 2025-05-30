@@ -1,0 +1,9 @@
+/ms sendto %0% /equip back "nexus cape"
+/wait 10
+/ms sendto %0% /tell %0% Activando Neus 20s
+/wait 10
+/ms sendto %0% /tell %0% Activando Neus 10s
+/wait 11
+/ms sendto %0% /item "nexus cape" <me>
+
+
