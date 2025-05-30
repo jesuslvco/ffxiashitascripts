@@ -1,0 +1,3 @@
+/lastsynt
+/wait 18
+/lastsynt

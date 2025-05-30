@@ -1,0 +1,10 @@
+/item "hatche" <stnpc>
+/wait 5
+/item "hatche" <stnpc>
+/wait 5
+/item "hatche" <stnpc>
+/wait 5
+/item "hatche" <stnpc>
+/wait 5
+/item "hatche" <stnpc>
+/wait 5

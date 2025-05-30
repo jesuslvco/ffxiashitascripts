@@ -1,0 +1,10 @@
+/item "pickaxe" <stnpc>
+/wait 5
+/item "pickaxe" <stnpc>
+/wait 5
+/item "pickaxe" <stnpc>
+/wait 5
+/item "pickaxe" <stnpc>
+/wait 5
+/item "pickaxe" <stnpc>
+/wait 5
