@@ -1,0 +1,10 @@
+/lac ring1 disable
+/equip ring1 "warp ring"
+/echo Using Warp ring in 10s...
+/wait 6
+/echo Using Warp ring in 5s...
+/wait 5
+/ma warp <me>
+/item "warp ring" <me>
+/wait 7
+/lac ring1 enabled

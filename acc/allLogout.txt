@@ -1,5 +1,0 @@
-/attackoff
-/ms sendto %0% /attackoff
-/wait 1
-/logout
-/ms sendto %0% /logout

@@ -1,0 +1,5 @@
+/upcast "Protectra" <me>
+/wait 7
+/upcast "Shellra" <me>
+/wait 6
+/ma "Auspice" <me>

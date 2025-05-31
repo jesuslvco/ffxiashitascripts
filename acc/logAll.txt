@@ -1,0 +1,3 @@
+/attackoff
+/wait 1
+/logout

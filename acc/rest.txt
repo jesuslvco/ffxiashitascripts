@@ -1,1 +1,1 @@
-/ms sendto %0% /heal
+/heal

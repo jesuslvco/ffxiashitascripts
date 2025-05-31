@@ -1,0 +1,5 @@
+/debuff sneak
+/ja "spectral jig" <me>
+/ma sneak <me>
+/wait 5
+/ma invisible <me>

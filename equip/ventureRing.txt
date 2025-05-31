@@ -1,0 +1,9 @@
+/lac ring1 disable
+/equip ring1 "venture ring"
+/echo Venture Ring in 10s...
+/wait 6
+/echo Venture ring in 5s...
+/wait 5
+/item "venture ring" <me>
+/wait 7
+/lac ring1 enabled
