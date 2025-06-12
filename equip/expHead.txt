@@ -1,0 +1,9 @@
+/lac disable head
+/equip head "Sprout beret"
+/echo Exp Ring in 8s...
+/wait 4
+/echo Exp Ring in 4s...
+/wait 4
+/item "Sprout beret" <me>
+/wait 7
+/lac enable head 
