@@ -1,5 +1,5 @@
 /find cookie
-/item "Wizzard cookie" <me>
+/item "Wizard cookie" <me>
 /item "Ginger cookie" <me>
-/wait 2
+/wait 1
 /heal
