@@ -1,0 +1,3 @@
+/targetnpc
+/item "hatche" <t>
+

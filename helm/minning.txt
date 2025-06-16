@@ -1,0 +1,3 @@
+/targetnpc
+/item "pickaxe" <t>
+

@@ -8,4 +8,14 @@
 /wait 5
 /exec helm/minning
 /wait 5
+/exec helm/minning
+/wait 5
+/exec helm/minning
+/wait 5
+/exec helm/minning
+/wait 5
+/exec helm/minning
+/wait 5
+/exec helm/minning
+/wait 5
 /p <call20>
