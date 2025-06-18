@@ -1,1 +1,1 @@
-/ms sendto %0% /ma "cure III" %1%
+/mso /upcast -2 "cure" %0%

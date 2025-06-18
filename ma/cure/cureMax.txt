@@ -1,2 +1,2 @@
-/echo Max Cure: %0% => %1%
-/ms sendto %0% /upcaset "cure" %1%
+/echo Max Cure: => %0%
+/mso /upcast "cure" %0%

@@ -1,1 +1,1 @@
-/ms sendto %0% /ma "cure v" %1%
+/mso /ma "cure v" %0%

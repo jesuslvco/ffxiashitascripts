@@ -1,0 +1,13 @@
+/lac disable head
+/equip head "Shobuhouou Kabuto"
+/echo Raise Head in 30s...
+/wait 11
+/echo Raise Head in 20s...
+/wait 10
+/echo Raise Head in 10s...
+/wait 5
+/echo Raise Head in 5s...
+/wait 5
+/item "Shobuhouou Kabuto" <t>
+/wait 11
+/lac enable head 
