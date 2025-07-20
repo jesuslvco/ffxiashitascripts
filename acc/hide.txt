@@ -1,5 +1,7 @@
 /debuff sneak
 /ja "spectral jig" <me>
 /ma sneak <me>
+/item "silent oil" <me>
 /wait 6
 /ma invisible <me>
+/item "Prism powder" <me>

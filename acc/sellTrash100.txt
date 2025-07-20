@@ -1,0 +1,20 @@
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+/wait 4
+/exec acc/sellTrash10
+

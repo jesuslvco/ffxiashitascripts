@@ -1,0 +1,14 @@
+/msp /retr all
+/wait 2
+/msp /ma "Kupofried" <me>
+/wait 6
+/msp /ma Halver <me>
+/wait 6
+/msp /ma "Apururu (UC)" <me>
+/wait 1
+/msp /ma "Sylvie (UC)" <me>
+/wait 6
+/msp /ma "Zeid II" <me>
+/wait 6
+/msp /ma "Tenzen II" <me>
+

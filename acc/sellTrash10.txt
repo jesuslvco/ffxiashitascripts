@@ -1,0 +1,2420 @@
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4
+/item "little worm" <t>
+/wait 4

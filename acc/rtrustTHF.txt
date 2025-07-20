@@ -1,0 +1,14 @@
+/retr all
+/wait 2
+/mso /ma Gessho <me>
+/wait 6
+/mso /ma "Apururu (UC)" <me>
+/wait 1
+/mso /ma "Sylvie (UC)" <me>
+/wait 6
+/mso /ma  "Lion II"
+/wait 6
+/mso /ma "Zeid II" <me>
+/wait 6
+/mso /ma "Tenzen II" <me>
+

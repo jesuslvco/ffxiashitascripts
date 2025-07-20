@@ -1,0 +1,6 @@
+/mso /retr all
+/wait 2
+/mso /ma "Halver" <me>
+/wait 6
+/mso /ma  "Zeid II"
+
