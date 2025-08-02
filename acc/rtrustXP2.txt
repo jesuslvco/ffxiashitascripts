@@ -2,7 +2,7 @@
 /wait 2
 /msp /ma Gessho <me>
 /wait 6
-/msp /ma "Kupofried"
+/msp /ma "Kupofried" <me>
 /wait 6
 /msp /ma "Apururu (UC)" <me>
 /wait 1

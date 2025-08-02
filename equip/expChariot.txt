@@ -1,0 +1,9 @@
+/lac disable ring1
+/equip ring1 "Chariot band"
+/echo Exp Ring in 10s...
+/wait 6
+/echo Exp Ring in 5s...
+/wait 5
+/item "Chariot band" <me>
+/wait 7
+/lac enable ring1 
