@@ -1,0 +1,4 @@
+/mso /mode 0
+/mso /attackoff
+/wait 2
+/mso /mode 3

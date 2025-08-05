@@ -1,0 +1,14 @@
+/jobemote drg
+/mso /jobemote drg
+/wait 1
+/clap motion
+/mso /dance3 motion
+/wait 4
+/clap motion
+/mso /dance2 motion
+/wait 4
+/clap motion
+/mso /dance4 motion
+/wait 4
+/clap motion
+/mso /dance2 motion
