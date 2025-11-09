@@ -1,0 +1,9 @@
+/p Openning Induration <call14>
+/ja "Immanence" <me>
+/wait 2
+/ma "water" <t>
+/wait 4
+/p Close Chain Induration <call20>
+/ja "Immanence" <me>
+/wait 2
+/ma "Blizzard" <t>

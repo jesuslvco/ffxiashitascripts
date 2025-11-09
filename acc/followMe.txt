@@ -1,4 +1,3 @@
 /ms followme on
 /ms sendto %0% /ms follow on
-/ms attemptzones on
-/ms sendto %0% /ms followmax 40
+/ms sendto %0% /ms followmax 30

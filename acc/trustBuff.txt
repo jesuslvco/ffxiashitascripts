@@ -1,0 +1,10 @@
+/retr all
+/wait 2
+/ma "Apururu (UC)" <me>
+/wait 6
+/ma  "Koru-Moru"
+/wait 6
+/ma "Ulmia" <me>
+/wait 6
+/ma "Joachim" <me>
+

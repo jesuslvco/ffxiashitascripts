@@ -1,0 +1,14 @@
+/retr all
+/wait 2
+/ma Halver <me>
+/wait 6
+/ma "Apururu (UC)" <me>
+/wait 1
+/ma "Sylvie (UC)" <me>
+/wait 6
+/ma  "Koru-Moru"
+/wait 6
+/ma "Zeid II" <me>
+/wait 6
+/ma "Nashmeira II" <me>
+

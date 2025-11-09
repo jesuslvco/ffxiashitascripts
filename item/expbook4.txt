@@ -1,0 +1,97 @@
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/item "S. Stratagems" <me>
+/wait 9
+/p <call20>

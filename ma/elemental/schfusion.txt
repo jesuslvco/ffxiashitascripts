@@ -1,0 +1,9 @@
+/p Openning Fusion <call14>
+/ja "Immanence" <me>
+/wait 2
+/ma "fire" <t>
+/wait 4
+/p Close Chain Fusion <call20>
+/ja "Immanence" <me>
+/wait 2
+/ma "Thunder" <t>

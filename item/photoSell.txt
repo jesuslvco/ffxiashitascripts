@@ -1,0 +1,107 @@
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/targetnpc
+/item "Soul plate" <t>
+/wait 4
+/p <call20>
