@@ -2,256 +2,172 @@
 /lac disable ammo
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper" <bt>
-/wait 6
+/wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 11
+/wait 13
 /item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /equip ammo "blank soulplate"
-/wait 25
+/wait 26
 /item "soultrapper 2000" <bt>
-/wait 6
-/equip range "soultrapper"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper" <bt>
-/wait 6
-/equip range "soultrapper 2000"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip ammo "blank soulplate"
-/wait 25
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip range "soultrapper"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper" <bt>
-/wait 6
-/equip range "soultrapper 2000"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip ammo "blank soulplate"
-/wait 25
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip range "soultrapper"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper" <bt>
-/wait 6
-/equip range "soultrapper 2000"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip ammo "blank soulplate"
-/wait 25
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip range "soultrapper"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper" <bt>
-/wait 6
-/equip range "soultrapper 2000"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip ammo "blank soulplate"
-/wait 25
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip range "soultrapper"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper" <bt>
-/wait 6
-/equip range "soultrapper 2000"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip ammo "blank soulplate"
-/wait 25
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip range "soultrapper"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper" <bt>
-/wait 6
-/equip range "soultrapper 2000"
-/equip ammo "blank soulplate"
-/wait 11
-/item "soultrapper 2000" <bt>
-/wait 6
-/equip ammo "blank soulplate"
-/wait 25
-/item "soultrapper 2000" <bt>
-/wait 6
+/wait 7
 /lac enable range
 /lac enable ammo
 /p <call20>
