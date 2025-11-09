@@ -2,170 +2,262 @@
 /lac disable ammo
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip range "soultrapper"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 11
+/target <bt>
+/wait 1
 /item "soultrapper" <bt>
 /wait 7
 /equip range "soultrapper 2000"
 /equip ammo "blank soulplate"
-/wait 13
+/wait 12
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /equip ammo "blank soulplate"
-/wait 26
+/wait 25
+/target <bt>
+/wait 1
+/item "soultrapper 2000" <bt>
+/wait 7
+/equip range "soultrapper"
+/equip ammo "blank soulplate"
+/wait 11
+/target <bt>
+/wait 1
+/item "soultrapper" <bt>
+/wait 7
+/equip range "soultrapper 2000"
+/equip ammo "blank soulplate"
+/wait 12
+/target <bt>
+/wait 1
+/item "soultrapper 2000" <bt>
+/wait 7
+/equip ammo "blank soulplate"
+/wait 25
+/target <bt>
+/wait 1
 /item "soultrapper 2000" <bt>
 /wait 7
 /lac enable range
